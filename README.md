@@ -19,4 +19,4 @@ A console-based Hospital Management System built in C++ using Object-Oriented Pr
 ### Requirements: A C++ compiler (e.g., Dev-C++, Code::Blocks, or g++)
 ### Steps:
 1. Clone or download the project
-2. Open main.cpp in your IDE or compile via terminal:
+2. Open main.cpp in your IDE or compile via terminal
